@@ -1,6 +1,8 @@
 # YALab DevOps
 
-![logo](https://yanivassaflab.com/wp-content/uploads/2023/06/logo.png)
+<p align="center">
+  <img src="https://github.com/yalab-devops/.github/blob/main/logo_v2.png" />
+</p>
 
 ## Overview
 Welcome to the YALab DevOps GitHub organization! We are the DevOps team for [Prof. Yaniv Assaf's Lab](https://yanivassaflab.com/), dedicated to developing next-generation MRI tools to unlock the mysteries of brain plasticity. Our primary focus is on the management and execution of data processing procedures for MRI data, ensuring high standards of automation, standardization, and reproducibility in our research workflows.
